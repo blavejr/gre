@@ -2,6 +2,10 @@
 
 This Python script automatically flashes new words with their definitions at a fixed time interval.
 
+
+![Screenshot 1](https://github.com/vedangmehta/gre/blob/master/Screenshots/Screenshot1.png?raw=true "Screenshot 1")
+![Screenshot 2](https://github.com/vedangmehta/gre/blob/master/Screenshots/Screenshot2.png?raw=true "Screenshot 2")
+
 ##Usage :
 (Custom time)
 ```shell
